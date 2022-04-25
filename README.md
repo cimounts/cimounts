@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cimounts
-- 👀 I’m interested in Computer Programming Specifically around application
+- 👀 I’m interested in Computer Programming Specifically around application development
 - 🌱 I’m currently learning Web Design Foundations
 - 📫 How to reach me at christian.mounts@gmail.com
 
